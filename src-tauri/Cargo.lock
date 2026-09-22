@@ -763,9 +763,9 @@ dependencies = [
 
 [[package]]
 name = "cargo-release"
-version = "1.1.5"
+version = "1.1.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b5d5ed507f794144d14da49b8c446d736ac52544a7d520a07c69d1deb6ab598f"
+checksum = "d60ace34b3284b29dbb915a766f246d15e0400b960105763d334735fd385471d"
 dependencies = [
  "annotate-snippets",
  "anstream",
