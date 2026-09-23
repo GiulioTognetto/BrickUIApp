@@ -17,7 +17,7 @@
   "dependencies": {
     "@babel/standalone": "^8.0.4",
     "@lucide/vue": "^1.41.0",
-    "@nuxt/ui": "^4.11.0",
+    "@nuxt/ui": "^4.11.1",
     "@nuxtjs/i18n": "^10.3.0",
     "@tauri-apps/api": "^2.11.1",
     "@tauri-apps/plugin-autostart": "^2.5.0",
