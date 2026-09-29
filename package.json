@@ -36,7 +36,7 @@
     "vue3-sfc-loader": "^0.9.5"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^2.11.1",
+    "@tauri-apps/cli": "^2.11.5",
     "nuxt": "^4.5.2",
     "@types/babel__standalone": "^7.1.9",
     "@types/markdown-it": "^14.2.0",
